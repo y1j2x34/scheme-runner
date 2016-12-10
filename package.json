@@ -1,0 +1,18 @@
+{
+  "name": "scheme-runner",
+  "main": "./lib/scheme-runner",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "scheme-runner:toggle"
+  },
+  "repository": "https://github.com/y1j2x34/scheme-runner",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

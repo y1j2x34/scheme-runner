@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-r": "scheme-runner:toggle"
+  }
+}

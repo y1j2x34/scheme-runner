@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle scheme-runner",
+        "command": "scheme-runner:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "scheme-runner",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "scheme-runner:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
